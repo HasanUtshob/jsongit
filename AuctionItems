@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "title": "Rolex Submariner 16610",
+    "description": "A classic 1970s Rolex Submariner in excellent condition.",
+    "currentBidPrice": 12500.0,
+    "timeLeft": "2d 4h 30m",
+    "bidsCount": 18,
+    "image": "https://i.ibb.co.com/vCC3k31C/Bid4-min.png"
+  },
+  {
+    "id": 2,
+    "title": "Vintage Leica M3 Camera",
+    "description": "Brand new MacBook Pro with M2 chip, 16GB RAM, and 512GB SSD.",
+    "currentBidPrice": 1450.0,
+    "timeLeft": "1d 2h 15m",
+    "bidsCount": 25,
+    "image": "https://i.ibb.co.com/jpQDbJ5/Bid1-min.png"
+  },
+  {
+    "id": 3,
+    "title": "1965 Gibson SG Standard Electric Guitar",
+    "description": "Official Spalding NBA ball signed by 2024 All-Star team.",
+    "currentBidPrice": 750.0,
+    "timeLeft": "5h 45m",
+    "bidsCount": 12,
+    "image": "https://i.ibb.co.com/JR8H80dv/Bid2-min.png"
+  },
+  {
+    "id": 4,
+    "title": "Original Apple Macintosh 128K (1984)",
+    "description": "High-end mirrorless camera for professional photography.",
+    "currentBidPrice": 2899.99,
+    "timeLeft": "3d 12h",
+    "bidsCount": 8,
+    "image": "https://i.ibb.co.com/SXXnMZBy/Bid3-min.png"
+  },
+  {
+    "id": 5,
+    "title": "First Edition 'The Great Gatsby' by F. Scott Fitzgerald",
+    "description": "First edition holographic Charizard in mint condition.",
+    "currentBidPrice": 3200.0,
+    "timeLeft": "6h 20m",
+    "bidsCount": 34,
+    "image": "https://i.ibb.co.com/WvLxGrqM/Bid5-min.png"
+  },
+  {
+    "id": 6,
+    "title": "Mid-Century Modern Eames Lounge Chair",
+    "description": "All-terrain e-bike with 750W motor and 60-mile range.",
+    "currentBidPrice": 1850.5,
+    "timeLeft": "4d 1h 10m",
+    "bidsCount": 20,
+    "image": "https://i.ibb.co.com/rKHL7GLf/Bid6-min.png"
+  },
+  {
+    "id": 7,
+    "title": "Banksy Original Screen Print",
+    "description": "All-terrain e-bike with 750W motor and 60-mile range.",
+    "currentBidPrice": 1850.5,
+    "timeLeft": "4d 1h 10m",
+    "bidsCount": 20,
+    "image": "https://i.ibb.co.com/5hSMFvZm/Bid7-min.png"
+  }
+]
