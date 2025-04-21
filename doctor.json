@@ -1,0 +1,110 @@
+[
+  {
+    "id": 1,
+    "image": "/images/doctors/dr-smith.jpg",
+    "name": "Dr. John Smith",
+    "education": "MD, Harvard Medical School",
+    "speciality": "Cardiology",
+    "experience": "15 years",
+    "registration_number": "MED12345678"
+  },
+  {
+    "id": 2,
+    "image": "/images/doctors/dr-johnson.jpg",
+    "name": "Dr. Sarah Johnson",
+    "education": "PhD, Johns Hopkins University",
+    "speciality": "Neurology",
+    "experience": "12 years",
+    "registration_number": "MED87654321"
+  },
+  {
+    "id": 3,
+    "image": "/images/doctors/dr-lee.jpg",
+    "name": "Dr. Michael Lee",
+    "education": "MBBS, Stanford University",
+    "speciality": "Pediatrics",
+    "experience": "8 years",
+    "registration_number": "MED56781234"
+  },
+  {
+    "id": 4,
+    "image": "/images/doctors/dr-gupta.jpg",
+    "name": "Dr. Priya Gupta",
+    "education": "MD, AIIMS Delhi",
+    "speciality": "Dermatology",
+    "experience": "10 years",
+    "registration_number": "MED34567812"
+  },
+  {
+    "id": 5,
+    "image": "/images/doctors/dr-wilson.jpg",
+    "name": "Dr. Robert Wilson",
+    "education": "DO, Mayo Clinic",
+    "speciality": "Orthopedics",
+    "experience": "18 years",
+    "registration_number": "MED78901234"
+  },
+  {
+    "id": 6,
+    "image": "/images/doctors/dr-chen.jpg",
+    "name": "Dr. Emily Chen",
+    "education": "MD, UCLA",
+    "speciality": "Oncology",
+    "experience": "9 years",
+    "registration_number": "MED23456781"
+  },
+  {
+    "id": 7,
+    "image": "/images/doctors/dr-rodriguez.jpg",
+    "name": "Dr. Carlos Rodriguez",
+    "education": "MD, University of Miami",
+    "speciality": "Gastroenterology",
+    "experience": "14 years",
+    "registration_number": "MED89012345"
+  },
+  {
+    "id": 8,
+    "image": "/images/doctors/dr-patel.jpg",
+    "name": "Dr. Anjali Patel",
+    "education": "MBBS, University of London",
+    "speciality": "Endocrinology",
+    "experience": "7 years",
+    "registration_number": "MED45678901"
+  },
+  {
+    "id": 9,
+    "image": "/images/doctors/dr-kim.jpg",
+    "name": "Dr. David Kim",
+    "education": "MD, Yale School of Medicine",
+    "speciality": "Psychiatry",
+    "experience": "11 years",
+    "registration_number": "MED67890123"
+  },
+  {
+    "id": 10,
+    "image": "/images/doctors/dr-miller.jpg",
+    "name": "Dr. Jennifer Miller",
+    "education": "MD, Columbia University",
+    "speciality": "Obstetrics & Gynecology",
+    "experience": "13 years",
+    "registration_number": "MED90123456"
+  },
+  {
+    "id": 11,
+    "image": "/images/doctors/dr-nguyen.jpg",
+    "name": "Dr. Thomas Nguyen",
+    "education": "MD, University of Sydney",
+    "speciality": "Rheumatology",
+    "experience": "6 years",
+    "registration_number": "MED12389045"
+  },
+  {
+    "id": 12,
+    "image": "/images/doctors/dr-anderson.jpg",
+    "name": "Dr. Elizabeth Anderson",
+    "education": "MD, University of Toronto",
+    "speciality": "Pulmonology",
+    "experience": "16 years",
+    "registration_number": "MED23456789"
+  }
+]
