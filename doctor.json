@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "image": "/images/doctors/dr-smith.jpg",
+    "image": "https://i.ibb.co.com/KxPQJKLt/colynary-media-TB8e-Qjc3-WE-unsplash.jpg",
     "name": "Dr. John Smith",
     "education": "MD, Harvard Medical School",
     "speciality": "Cardiology",
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "image": "/images/doctors/dr-johnson.jpg",
+    "image": "https://i.ibb.co.com/wZMx5DzS/michael-dam-m-EZ3-Po-FGs-k-unsplash.jpg",
     "name": "Dr. Sarah Johnson",
     "education": "PhD, Johns Hopkins University",
     "speciality": "Neurology",
@@ -19,7 +19,7 @@
   },
   {
     "id": 3,
-    "image": "/images/doctors/dr-lee.jpg",
+    "image": "https://i.ibb.co.com/1fVvxm4V/d-dental-office-Bikn-MFl7i-Ow-unsplash.jpg",
     "name": "Dr. Michael Lee",
     "education": "MBBS, Stanford University",
     "speciality": "Pediatrics",
@@ -28,7 +28,7 @@
   },
   {
     "id": 4,
-    "image": "/images/doctors/dr-gupta.jpg",
+    "image": "https://i.ibb.co.com/yn72mdnc/ozkan-guner-9xl-Z8-Nrza-A-unsplash.jpg",
     "name": "Dr. Priya Gupta",
     "education": "MD, AIIMS Delhi",
     "speciality": "Dermatology",
@@ -37,7 +37,7 @@
   },
   {
     "id": 5,
-    "image": "/images/doctors/dr-wilson.jpg",
+    "image": "https://i.ibb.co.com/CpJKb8Fb/ozkan-guner-cva5-Tw4t-Sow-unsplash.jpg",
     "name": "Dr. Robert Wilson",
     "education": "DO, Mayo Clinic",
     "speciality": "Orthopedics",
@@ -46,7 +46,7 @@
   },
   {
     "id": 6,
-    "image": "/images/doctors/dr-chen.jpg",
+    "image": "https://i.ibb.co.com/20hB4XHM/ozkan-guner-Kr-Dod6-WQOY-unsplash.jpg",
     "name": "Dr. Emily Chen",
     "education": "MD, UCLA",
     "speciality": "Oncology",
@@ -55,7 +55,7 @@
   },
   {
     "id": 7,
-    "image": "/images/doctors/dr-rodriguez.jpg",
+    "image": "https://i.ibb.co.com/LMNtM5J/jonathan-borba-Yui-Vjm-S8-AA-unsplash.jpg",
     "name": "Dr. Carlos Rodriguez",
     "education": "MD, University of Miami",
     "speciality": "Gastroenterology",
@@ -64,7 +64,7 @@
   },
   {
     "id": 8,
-    "image": "/images/doctors/dr-patel.jpg",
+    "image": "https://i.ibb.co.com/d4q7Yf43/filip-rankovic-grobgaard-9-1-Y-IKP4t-Y-unsplash.jpg",
     "name": "Dr. Anjali Patel",
     "education": "MBBS, University of London",
     "speciality": "Endocrinology",
@@ -73,7 +73,7 @@
   },
   {
     "id": 9,
-    "image": "/images/doctors/dr-kim.jpg",
+    "image": "https://i.ibb.co.com/ns0WdgTq/jeremy-alford-O13-B7su-RG4-A-unsplash.jpg",
     "name": "Dr. David Kim",
     "education": "MD, Yale School of Medicine",
     "speciality": "Psychiatry",
@@ -82,7 +82,7 @@
   },
   {
     "id": 10,
-    "image": "/images/doctors/dr-miller.jpg",
+    "image": "https://i.ibb.co.com/d4FDRBhG/bruno-rodrigues-279x-IHym-PYY-unsplash.jpg",
     "name": "Dr. Jennifer Miller",
     "education": "MD, Columbia University",
     "speciality": "Obstetrics & Gynecology",
@@ -91,7 +91,7 @@
   },
   {
     "id": 11,
-    "image": "/images/doctors/dr-nguyen.jpg",
+    "image": "https://i.ibb.co.com/9kjdTmG1/humberto-chavez-FVh-yq-LR9e-A-unsplash.jpg",
     "name": "Dr. Thomas Nguyen",
     "education": "MD, University of Sydney",
     "speciality": "Rheumatology",
@@ -100,7 +100,7 @@
   },
   {
     "id": 12,
-    "image": "/images/doctors/dr-anderson.jpg",
+    "image": "https://i.ibb.co.com/1YH0g8fB/usman-yousaf-p-Trhfmj2j-DA-unsplash.jpg",
     "name": "Dr. Elizabeth Anderson",
     "education": "MD, University of Toronto",
     "speciality": "Pulmonology",
