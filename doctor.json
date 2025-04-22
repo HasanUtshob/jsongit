@@ -6,7 +6,10 @@
     "education": "MD, Harvard Medical School",
     "speciality": "Cardiology",
     "experience": "15 years",
-    "registration_number": "MED12345678"
+    "registration_number": "MED12345678",
+    "working_at": "Massachusetts General Hospital",
+    "availability": "Mon-Wed, Fri 9am-5pm",
+    "consultation_fee": "$250"
   },
   {
     "id": 2,
@@ -15,7 +18,10 @@
     "education": "PhD, Johns Hopkins University",
     "speciality": "Neurology",
     "experience": "12 years",
-    "registration_number": "MED87654321"
+    "registration_number": "MED87654321",
+    "working_at": "Johns Hopkins Hospital",
+    "availability": "Tue-Thu 8am-4pm",
+    "consultation_fee": "$275"
   },
   {
     "id": 3,
@@ -24,7 +30,10 @@
     "education": "MBBS, Stanford University",
     "speciality": "Pediatrics",
     "experience": "8 years",
-    "registration_number": "MED56781234"
+    "registration_number": "MED56781234",
+    "working_at": "Stanford Children's Health",
+    "availability": "Mon-Fri 10am-6pm",
+    "consultation_fee": "$180"
   },
   {
     "id": 4,
@@ -33,7 +42,10 @@
     "education": "MD, AIIMS Delhi",
     "speciality": "Dermatology",
     "experience": "10 years",
-    "registration_number": "MED34567812"
+    "registration_number": "MED34567812",
+    "working_at": "Metro Skin Care Clinic",
+    "availability": "Mon-Sat 9am-7pm",
+    "consultation_fee": "$200"
   },
   {
     "id": 5,
@@ -42,7 +54,10 @@
     "education": "DO, Mayo Clinic",
     "speciality": "Orthopedics",
     "experience": "18 years",
-    "registration_number": "MED78901234"
+    "registration_number": "MED78901234",
+    "working_at": "Mayo Clinic Orthopedics",
+    "availability": "Mon, Wed, Fri 7am-3pm",
+    "consultation_fee": "$300"
   },
   {
     "id": 6,
@@ -51,7 +66,10 @@
     "education": "MD, UCLA",
     "speciality": "Oncology",
     "experience": "9 years",
-    "registration_number": "MED23456781"
+    "registration_number": "MED23456781",
+    "working_at": "UCLA Medical Center",
+    "availability": "Tue-Thu 8am-5pm",
+    "consultation_fee": "$350"
   },
   {
     "id": 7,
@@ -60,7 +78,10 @@
     "education": "MD, University of Miami",
     "speciality": "Gastroenterology",
     "experience": "14 years",
-    "registration_number": "MED89012345"
+    "registration_number": "MED89012345",
+    "working_at": "Miami Digestive Health",
+    "availability": "Mon-Fri 8:30am-4:30pm",
+    "consultation_fee": "$225"
   },
   {
     "id": 8,
@@ -69,7 +90,10 @@
     "education": "MBBS, University of London",
     "speciality": "Endocrinology",
     "experience": "7 years",
-    "registration_number": "MED45678901"
+    "registration_number": "MED45678901",
+    "working_at": "London Endocrine Center",
+    "availability": "Mon, Wed, Fri 9am-4pm",
+    "consultation_fee": "$210"
   },
   {
     "id": 9,
@@ -78,7 +102,10 @@
     "education": "MD, Yale School of Medicine",
     "speciality": "Psychiatry",
     "experience": "11 years",
-    "registration_number": "MED67890123"
+    "registration_number": "MED67890123",
+    "working_at": "Yale Psychiatric Hospital",
+    "availability": "Tue-Thu 10am-6pm",
+    "consultation_fee": "$195"
   },
   {
     "id": 10,
@@ -87,7 +114,10 @@
     "education": "MD, Columbia University",
     "speciality": "Obstetrics & Gynecology",
     "experience": "13 years",
-    "registration_number": "MED90123456"
+    "registration_number": "MED90123456",
+    "working_at": "Columbia Women's Health",
+    "availability": "Mon-Fri 8am-5pm",
+    "consultation_fee": "$230"
   },
   {
     "id": 11,
@@ -96,7 +126,10 @@
     "education": "MD, University of Sydney",
     "speciality": "Rheumatology",
     "experience": "6 years",
-    "registration_number": "MED12389045"
+    "registration_number": "MED12389045",
+    "working_at": "Sydney Arthritis Center",
+    "availability": "Mon, Wed, Fri 9am-3pm",
+    "consultation_fee": "$190"
   },
   {
     "id": 12,
@@ -105,6 +138,9 @@
     "education": "MD, University of Toronto",
     "speciality": "Pulmonology",
     "experience": "16 years",
-    "registration_number": "MED23456789"
+    "registration_number": "MED23456789",
+    "working_at": "Toronto Lung Institute",
+    "availability": "Tue-Thu 7:30am-3:30pm",
+    "consultation_fee": "$260"
   }
 ]
